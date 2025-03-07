@@ -50,7 +50,7 @@ PHI = (1 + math.sqrt(5)) / 2
 
 
 
-text = os.getenv("TRAINING_DATA")
+text = os.getenv("TRAINING_DATA.txt")
 
 
 
